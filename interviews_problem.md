@@ -24,7 +24,9 @@ Contests Table:  Colleges Table:  Challenges Table:  View_Stats Table:  Submissi
 ### Sample Output
 
 66406 17973 Rose 111 39 156 56
+
 66556 79153 Angela 0 0 11 10
+
 94828 80275 Frank 150 38 41 15
 
 # Solution:
